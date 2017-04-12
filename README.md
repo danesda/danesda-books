@@ -26,10 +26,10 @@ For instance:
 - Los manuscritos del mar muerto:: Vidal Manzanares
  .. Siempre adelante, Orison S. Marden
  * 20 poemas de amor y una canción desesperada, Pablo Neruda*
-Ilusiones, Richard Bach
-El tulipán negro, Alejandro Dumas (padre)
-Los que se fueron a la porra, Alvaro de la Iglesia
-Por todos los dioses, Ramon Garcia Dominguez
+- :: Ilusiones, Richard Bach
+- *El tulipán negro*, Alejandro Dumas (padre)
+- #Los que se fueron a la porra, Alvaro de la Iglesia#
+- ## Por todos los dioses, Ramon Garcia Dominguez
 Me llaman Pacheco, Daniel Samper Pizano
 La Vuelta al mundo en 80 dias, Julio Verne
 Significado oculto de los sueños, Samael Aun Weor
