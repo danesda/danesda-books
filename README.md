@@ -5,8 +5,8 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 **Pensamientos para hombres libres** Reynaldo Suarez Diaz
 **Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
 - Poema del Cid
-- Mujercitas, Louise May Alcott
-:Como ganar amigos: Dale Carnegie
+- Mujercitas, Louise May Alcott .. image:: images/ball1.gif
+- :Como ganar amigos: Dale Carnegie
 - **La Dama de las Camelias** Alexandre Dumas (hijo)
 ''Rasputin'' M. Bekri
 Naranjo, supervivencia en el bosque, Jorge Porta Laborta
