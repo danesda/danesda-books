@@ -98,56 +98,56 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 - **Cuentos de Quince minutos**, David Martinez Rueda
 - **Tecnicas de guion para cine y televisión**, Eugene Vale
 - **El retrato de Dorian Gray**, Oscar Wilde
-- **La Peste, Albert Camus
-- **Sin Familia, Hector Malot
-- **El entre nosotras, Anna Myers
-- **Napoleon en 25000 palabras, Paul Reader
-- **Papita en invierno, Brian Doyle
-- **Rosario Tijeras, Jorge Franco Ramos
-- **Hijos de la droga, Christiane Vera F.
-- **El Principe, Nicolas Maquiavelo
-- **Entre la legitimidad y la violencia, Colombia 1875-1994, Marcos Palacios
-- **El Atravesado, Andres Caicedo
-- **El mundo de Sofia, Jestein Gaarder
-- **Stephen Hawking, una vida para la ciencia, Michael White y John Gribbin
-- **Television y educacion, Joan Ferres
-- **El alquimista, Paulo Coelho
-- **Opino en las nubes, Rafael Camacho Madiedo
-- **Colombia una nación a pesar de si misma, David Bushnell
-- **Un mundo feliz, Aldous Huxley
-- **Un enemigo conocido, Costanza Ardila Galviz
-- **La conquista del mundo submarino, Mario Lleget
-- **Los increíbles cuentos de Saki, Saki HH. Munro
-- **366… y mas cuentos, Gianni Padoan
-- **El mundo de los drogados, Suzanne Labin
-- **Mitos y misterios de la India, Sujan Singh Pannu
-- **Cuentos no digestivos , Marcos Julian Gutierrez
-- **Arturo Gordon Pym, Edgar Allan Poe
-- **El libro secreto de los Gnomos, Saro de la Iglesia
-- **La Iliada, Homero 
-- **Harry Potter y la Piedra Filosofal, J.K Rowling
-- **Cuentos de los Hermanos Grimm, KHM es Kinder- und Hausmärchen
-- **Harry Potter y la cámara secreta, J.K Rowling
-- **Cronica de una muerte anunciada, Gabriel Garcia Marquez
-- **Desde Rusia con amor, Ian Fleming
-- **La muerte de Arturo Vol. III, Sir Thomas Malory
-- **El Cuento del Grial, Chretien de Troyes
-- **Harry Potter y el prisionero de Azkaban, J.K Rowling
-- **La Reina estrangulada (los reyes malditos), Maurice Druon
-- **Harry Potter y el caliz de fuego, J.K Rowling
-- **Las garras de la noche, Cornell Woolrich
-- **La marea roja, Cornell Woolrich
-- **Los hechos del Rey Arturo y sus nobles caballeros, John Steinbeck
-- **La historia interminable, Michael Ende
-- **Antologia de la ciencia ficcion
-- **El extraño caso del Dr. Jekyll y MR. Hyde, Robert Louis Stevenson
-- **El estado solido y propiedades de los materiales, Helena Arenas de Pulido
-- **El señor de los anillos, la comunidad del anillo, JRR Tolkien
-- **Las dos torres, JRR Tolkien
-- **El retorno del rey, JRR Tolkien
-- **Inteligencia artificial y minirobots, Alberto Delgado
-- **El gato y el raton, Gunter Grass
-- **Cronicas marcianas, Ray Bradbury
+- **La Peste**, Albert Camus
+- **Sin Familia**, Hector Malot
+- **El entre nosotras**, Anna Myers
+- **Napoleon en 25000 palabras**, Paul Reader
+- **Papita en invierno**, Brian Doyle
+- **Rosario Tijeras**, Jorge Franco Ramos
+- **Hijos de la droga**, Christiane Vera F.
+- **El Principe**, Nicolas Maquiavelo
+- **Entre la legitimidad y la violencia, Colombia 1875-1994**, Marcos Palacios
+- **El Atravesado**, Andres Caicedo
+- **El mundo de Sofia**, Jestein Gaarder
+- **Stephen Hawking, una vida para la ciencia**, Michael White y John Gribbin
+- **Television y educacion**, Joan Ferres
+- **El alquimista**, Paulo Coelho
+- **Opino en las nubes**, Rafael Camacho Madiedo
+- **Colombia una nación a pesar de si misma**, David Bushnell
+- **Un mundo feliz**, Aldous Huxley
+- **Un enemigo conocido**, Costanza Ardila Galviz
+- **La conquista del mundo submarino**, Mario Lleget
+- **Los increíbles cuentos de Saki**, Saki HH. Munro
+- **366… y mas cuentos**, Gianni Padoan
+- **El mundo de los drogados**, Suzanne Labin
+- **Mitos y misterios de la India**, Sujan Singh Pannu
+- **Cuentos no digestivos**, Marcos Julian Gutierrez
+- **Arturo Gordon Pym**, Edgar Allan Poe
+- **El libro secreto de los Gnomos**, Saro de la Iglesia
+- **La Iliada**, Homero 
+- **Harry Potter y la Piedra Filosofal**, J.K Rowling
+- **Cuentos de los Hermanos Grimm**, KHM es Kinder- und Hausmärchen
+- **Harry Potter y la cámara secreta**, J.K Rowling
+- **Cronica de una muerte anunciada**, Gabriel Garcia Marquez
+- **Desde Rusia con amor**, Ian Fleming
+- **La muerte de Arturo Vol. III**, Sir Thomas Malory
+- **El Cuento del Grial**, Chretien de Troyes
+- **Harry Potter y el prisionero de Azkaban**, J.K Rowling
+- **La Reina estrangulada** (los reyes malditos), Maurice Druon
+- **Harry Potter y el caliz de fuego**, J.K Rowling
+- **Las garras de la noche**, Cornell Woolrich
+- **La marea roja**, Cornell Woolrich
+- **Los hechos del Rey Arturo y sus nobles caballeros**, John Steinbeck
+- **La historia interminable**, Michael Ende
+- **Antologia de la ciencia ficcion**
+- **El extraño caso del Dr. Jekyll y MR. Hyde**, Robert Louis Stevenson
+- **El estado solido y propiedades de los materiales**, Helena Arenas de Pulido
+- **El señor de los anillos**, la comunidad del anillo, JRR Tolkien
+- **Las dos torres**, JRR Tolkien
+- **El retorno del rey**, JRR Tolkien
+- **Inteligencia artificial y minirobots**, Alberto Delgado
+- **El gato y el raton**, Gunter Grass
+- **Cronicas marcianas**, Ray Bradbury
 - **Contacto, Carl Sagan
 - **La canción de los Nibelungos, Claude Mettra
 - **Plutonia, Vladimir Afanasievich Obruchev
