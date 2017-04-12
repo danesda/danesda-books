@@ -198,88 +198,88 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 - **La ciencia de los superheroes**, Juan Scaliter
 - **Los hombres son de marte y las mujeres de venus**, Joh Gray
 - **Maus**, Art Spiegelman
-- **El mono enamorado, Robert Sapolsky
-- **Room Service, Sergio Marchi
-- **El rock perdido, Sergio Marchi
-- **Sin reserva, Anthony Bourdain
-- **Los dragones del eden, Carl Sagan
-- **Donde termina el arcoiris, Cecelia Ahern
-- **Comer, rezar, amar, Elizabeth Gilbert
-- **Rebelión en la granja, George Orwell
-- **1984, George Orwell
-- **Operación Masacre, Rodolfo Walsh
-- **Las mil y una noches
-- **Sobre héroes y tumbas, Ernesto Sabato
-- **El arte de amar, Erich Fromm
-- **Retrato de un artista cachorro, Dylan Thomas
-- **El jugador, Fiodor Dostoievski
-- **Veinte mil lenguas de viaje submarino, Julio Verne
-- **De la tierra a la luna, Julio Verne
-- **El cuaderno dorado, Doris Lessing
-- **Cien años de soledad, Gabriel Garcia Marquez
-- **Del amor y otros demonios, Gabriel Garcia Marquez
-- **Breve historia del tiempo, Stephen Hawking
-- **Destinitos Fatales, Andres Caicedo
-- **El vendedor mas grande del mundo, OG. Mandino
-- **Uno, Richard Bach
-- **Anna Karenina, Leon Tolstoi
-- **Nunca mas, CONADEP
-- **El proceso, Franz Kafka
-- **El idiota, Fiodor Dostoievski
-- **Dracula, Bram Stoker
-- **Metropolis, Thea Von Harbou
-- **La desobediencia civil, Henry David Thoreau
-- **La cancha de arena, Jesus Antonio Alvarez Florez
-- **Ebano, Ryszard Kapuscinski
-- **Sumision, Michel Houellebcq
-- **Hacia las rutas salvajes, Joh Krakauer
-- **La noche de tlatelolco, Elena Poniatwska
-- **Sexo, un viaje desde lo divino y humano hasta lo morboso y macabro, Pirry, Guillermo Arturo Prieto La Rotta
-- **Espejo Retrovisor, Juan Villoro
-- **La soledad de los números primos, Paolo Giordano
-- **Rock y dictadura, Sergio Pujol
-- **God sabe the King, Gustavo Bove
-- **La sombra del fanatismo, Claudio Fantini
-- **Una temporada de machetes, Jean Hatzfeld
-- **Cuentos de Canterbury, Geoffrey Chaucer
-- **Si… de acuerdo, Roger Fisher
-- **Desde Cesar a la mafia, Luigi Barzini
-- **Tejiendo Sueños, Patti Smith
-- **El corazón de las tinieblas, Joseph Conrad
-- **El beso de la mujer araña, Manuel Puig
-- **La víspera de Santo Tomas, Jean Plaidy
-- **El mundo de hoy, Ryszard Kapuscinski
-- **El prisionero del caucaso, Leon Tolstoi
-- **Ivan el tonto, Leon Tolstoi
-- **La muerte de Ivan Ilitch, Leon Tolstoi
-- **Amo y criado, Leon Tolstoi
-- **Sound Bites, comerse el mundo de gira con Franz Ferdinand, Alex Kapranos
-- **La maquina de follar, Charles Bukowski
-- **La Isla del tesoro, Robert Louis Stevenson
-- **Teoria King Kong, Virginie Despentes
-- **Miguel Strogoff, Julio Verne
-- **Hilando fino, voces femeninas en La Violencia, Maria victoria Uribe Alarcon
-- **Despues del rock, psicodelia, postpunk, electrónica y  otras revoluciones inconclusas, Simon Reynolds
-- **La ciudad vista, mercancías y cultura urbana, Beatriz Sarlo
-- **El llano en llamas, Alfredo Molano
-- **Cronicas Filosas, Rolling Stone Argentina
-- **Selva Adentro, Una historia de la colonización del Guaviare, Alfredo Molano
-- **El Eternauta, Hector Oesterheld, Francisco Solano Lopez
-- **El resto es silencio, Carla Guelfenbein
-- **Siddhartha, Hermann Hesse
-- **En esas andaba cuando la vi, Fernando Quiroz
-- **La capitana del Yucatan, Emilio Salgari
-- **Un arte de vivir, Reinaldo Suarez Diaz
-- **Citas del Presidente, Mao Tsetung
-- **El origen de la burguesía en Colombia, Eduardo Peña Consuegra
-- **Cinco tesis filosoficas, Mao Tsetung
-- **El Kama Sutra, Vatsiaiana 
-- **Introduccion a los computadores, Elberto Carrillo Rincon 
-- **Al rescate de Omacha, Sarita Kendall
-- **La mascara de la muerte roja, Edgar Allan Poe
-- **Poesia completa, Walk Whitman
-- **King Kong, Delos W. Lovelace
-- **Mal de Altura, Jon Krakauer
-- **Tumulto en julio, Erskine Caldwell
-- **Joseph Anton, Memorias del tiempo de la fauta, Salman Rushdie
-- **La senda del perdedor, Charles Bukowski
+- **El mono enamorado**, Robert Sapolsky
+- **Room Service**, Sergio Marchi
+- **El rock perdido**, Sergio Marchi
+- **Sin reserva**, Anthony Bourdain
+- **Los dragones del eden**, Carl Sagan
+- **Donde termina el arcoiris**, Cecelia Ahern
+- **Comer, rezar, amar**, Elizabeth Gilbert
+- **Rebelión en la granja**, George Orwell
+- **1984**, George Orwell
+- **Operación Masacre**, Rodolfo Walsh
+- **Las mil y una noches**
+- **Sobre héroes y tumbas**, Ernesto Sabato
+- **El arte de amar**, Erich Fromm
+- **Retrato de un artista cachorro**, Dylan Thomas
+- **El jugador**, Fiodor Dostoievski
+- **Veinte mil lenguas de viaje submarino**, Julio Verne
+- **De la tierra a la luna**, Julio Verne
+- **El cuaderno dorado**, Doris Lessing
+- **Cien años de soledad**, Gabriel Garcia Marquez
+- **Del amor y otros demonios**, Gabriel Garcia Marquez
+- **Breve historia del tiempo**, Stephen Hawking
+- **Destinitos Fatales**, Andres Caicedo
+- **El vendedor mas grande del mundo**, OG. Mandino
+- **Uno**, Richard Bach
+- **Anna Karenina**, Leon Tolstoi
+- **Nunca mas**, CONADEP
+- **El proceso**, Franz Kafka
+- **El idiota**, Fiodor Dostoievski
+- **Dracula**, Bram Stoker
+- **Metropolis**, Thea Von Harbou
+- **La desobediencia civil**, Henry David Thoreau
+- **La cancha de arena**, Jesus Antonio Alvarez Florez
+- **Ebano**, Ryszard Kapuscinski
+- **Sumision**, Michel Houellebcq
+- **Hacia las rutas salvajes**, Joh Krakauer
+- **La noche de tlatelolco**, Elena Poniatwska
+- **Sexo, un viaje desde lo divino y humano hasta lo morboso y macabro**, Pirry, Guillermo Arturo Prieto La Rotta
+- **Espejo Retrovisor**, Juan Villoro
+- **La soledad de los números primos**, Paolo Giordano
+- **Rock y dictadura**, Sergio Pujol
+- **God sabe the King**, Gustavo Bove
+- **La sombra del fanatismo**, Claudio Fantini
+- **Una temporada de machetes**, Jean Hatzfeld
+- **Cuentos de Canterbury**, Geoffrey Chaucer
+- **Si… de acuerdo**, Roger Fisher
+- **Desde Cesar a la mafia**, Luigi Barzini
+- **Tejiendo Sueños**, Patti Smith
+- **El corazón de las tinieblas**, Joseph Conrad
+- **El beso de la mujer araña**, Manuel Puig
+- **La víspera de Santo Tomas**, Jean Plaidy
+- **El mundo de hoy**, Ryszard Kapuscinski
+- **El prisionero del caucaso**, Leon Tolstoi
+- **Ivan el tonto**, Leon Tolstoi
+- **La muerte de Ivan Ilitch**, Leon Tolstoi
+- **Amo y criado**, Leon Tolstoi
+- **Sound Bites, comerse el mundo de gira con Franz Ferdinand**, Alex Kapranos
+- **La maquina de follar**, Charles Bukowski
+- **La Isla del tesoro**, Robert Louis Stevenson
+- **Teoria King Kong**, Virginie Despentes
+- **Miguel Strogoff**, Julio Verne
+- **Hilando fino**, voces femeninas en La Violencia, Maria victoria Uribe Alarcon
+- **Despues del rock, psicodelia, postpunk, electrónica y  otras revoluciones inconclusas**, Simon Reynolds
+- **La ciudad vista, mercancías y cultura urbana**, Beatriz Sarlo
+- **El llano en llamas**, Alfredo Molano
+- **Cronicas Filosas**, Rolling Stone Argentina
+- **Selva Adentro, Una historia de la colonización del Guaviare**, Alfredo Molano
+- **El Eternauta**, Hector Oesterheld, Francisco Solano Lopez
+- **El resto es silencio**, Carla Guelfenbein
+- **Siddhartha**, Hermann Hesse
+- **En esas andaba cuando la vi**, Fernando Quiroz
+- **La capitana del Yucatan**, Emilio Salgari
+- **Un arte de vivir**, Reinaldo Suarez Diaz
+- **Citas del Presidente**, Mao Tsetung
+- **El origen de la burguesía en Colombia**, Eduardo Peña Consuegra
+- **Cinco tesis filosoficas**, Mao Tsetung
+- **El Kama Sutra**, Vatsiaiana 
+- **Introduccion a los computadores**, Elberto Carrillo Rincon 
+- **Al rescate de Omacha**, Sarita Kendall
+- **La mascara de la muerte roja**, Edgar Allan Poe
+- **Poesia completa**, Walk Whitman
+- **King Kong**, Delos W. Lovelace
+- **Mal de Altura**, Jon Krakauer
+- **Tumulto en julio**, Erskine Caldwell
+- **Joseph Anton, Memorias del tiempo de la fauta**, Salman Rushdie
+- **La senda del perdedor**, Charles Bukowski
