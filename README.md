@@ -3,7 +3,7 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 =================================================================
 **Narraciones Extraordinarias** Edgar Allan Poe
 - The |biohazard| symbol must be used on containers used to dispose of medical waste.
-.. |H| image:: /images/heart.png
+ .. |H| image:: /images/heart.png
    :height: 11
    :width: 11
 .. |S| image:: /images/spade.png
@@ -30,7 +30,7 @@ For instance:
 - *El tulipán negro*, Alejandro Dumas (padre)
 - #Los que se fueron a la porra, Alvaro de la Iglesia#
 - ## Por todos los dioses, Ramon Garcia Dominguez
-Me llaman Pacheco, Daniel Samper Pizano
+**Me llaman Pacheco** Daniel Samper Pizano
 La Vuelta al mundo en 80 dias, Julio Verne
 Significado oculto de los sueños, Samael Aun Weor
 Aventuras del Capitan Hatteras, Julio Verne
