@@ -1,11 +1,12 @@
 # danesda-books
-## Una pequeña lista de los libros que me acuerdo pasaron por aqui.
-Narraciones Extraordinarias, Edgar Allan Poe
-Pensamientos para hombres libres, Reynaldo Suarez Diaz
-Leyes que nunca fallan para alcanzar el exito, Miguel Cuadrado
-Poema del Cid
-Mujercitas, Louise May Alcott
-Como ganar amigos, Dale Carnegie
+Una pequeña lista de los libros que me acuerdo pasaron por aqui.
+=================================================================
+"Narraciones Extraordinarias, Edgar Allan Poe"
+"Pensamientos para hombres libres, Reynaldo Suarez Diaz"
+-Leyes que nunca fallan para alcanzar el exito, Miguel Cuadrado
+-Poema del Cid
+-Mujercitas, Louise May Alcott
+:Como ganar amigos: Dale Carnegie
 La Dama de las Camelias, Alexandre Dumas (hijo)
 Rasputin, M. Bekri
 Naranjo, supervivencia en el bosque, Jorge Porta Laborta
