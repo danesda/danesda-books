@@ -101,7 +101,7 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 - **La Peste, Albert Camus
 - **Sin Familia, Hector Malot
 - **El entre nosotras, Anna Myers
-Napoleon en 25000 palabras, Paul Reader
+- **Napoleon en 25000 palabras, Paul Reader
 Papita en invierno, Brian Doyle
 Rosario Tijeras, Jorge Franco Ramos
 Hijos de la droga, Christiane Vera F.
