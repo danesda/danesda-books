@@ -1,6 +1,12 @@
 # danesda-books
+name="danesda-books",
+    description="books list",
+    author="Isabel Suarez",
+    author_email="danesda@yahoo.es",
+
 Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 =================================================================
+
 - **Narraciones Extraordinarias**, Edgar Allan Poe
 - **Pensamientos para hombres libres**, Reynaldo Suarez Diaz
 - **Leyes que nunca fallan para alcanzar el exito**, Miguel Cuadrado
