@@ -295,3 +295,49 @@ Mal de Altura, Jon Krakauer
 Tumulto en julio, Erskine Caldwell
 Joseph Anton, Memorias del tiempo de la fauta, Salman Rushdie
 La senda del perdedor, Charles Bukowski
+
+VIDEO_FILE = "video.mp4"
+OUTPUT_FILE = "anim.gif"
+DEVICE_FILE = "background.jpg"
+
+FRAMES_DIR = "./frames/"
+COMPOSITE_DIR = "./composite/"
+
+SCREENSHOTS_RESOLUTION = "270x480"
+FPS = 7 #Frames per second to capture. The more, the bigger (filesize)
+USE_DEVICE_FRAME = True
+DEBUG = False
+
+
+# Crea las carpetas necesarias, prepara el estado inicial del script
+os.system("rm -r frames")
+os.system("rm -r composite")
+os.system("mkdir composite")
+os.system("mkdir frames")
+
+# Saca los frames del vídeo
+print 'Sacando frames del vídeo...'
+extract_frames_command = "ffmpeg -i video.mp4 -r {} -s {} -f image2 {}img%3d.png".format(FPS, SCREENSHOTS_RESOLUTION, FRAMES_DIR)
+os.system(extract_frames_command)
+
+file_names = sorted((fn for fn in os.listdir(FRAMES_DIR) if fn.endswith('.png')))
+
+if DEBUG: raw_input("Frames extraídos, pulsa enter para continuar")
+
+# Junta los frames con el marco del móvil
+if USE_DEVICE_FRAME:
+	print 'Poniendo frames sobre el fondo...'
+	for i, fname in enumerate(file_names):
+		output_file = COMPOSITE_DIR+fname
+		input_file = FRAMES_DIR+fname
+		os.system('composite -gravity center {} {} {}'.format(input_file, DEVICE_FILE, output_file))
+
+	if DEBUG: raw_input("Marco del dispositivo adjuntado, pulsa enter para continuar")
+
+# Crea un gif a partir de los frames sueltos
+print 'Creando gif a partir de los frames...'
+final_frames_dir = COMPOSITE_DIR if USE_DEVICE_FRAME else FRAMES_DIR
+make_gif_command = "convert -layers Optimize -delay 1x{} {}img*.png {}".format(FPS, final_frames_dir, OUTPUT_FILE)
+os.system(make_gif_command)
+
+print "Listo! :)"
