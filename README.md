@@ -4,13 +4,13 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 **Narraciones Extraordinarias** Edgar Allan Poe
 **Pensamientos para hombres libres** Reynaldo Suarez Diaz
 **Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
--Poema del Cid
--Mujercitas, Louise May Alcott
+- Poema del Cid
+- Mujercitas, Louise May Alcott
 :Como ganar amigos: Dale Carnegie
-''**La Dama de las Camelias**'' Alexandre Dumas (hijo)
+- **La Dama de las Camelias** Alexandre Dumas (hijo)
 ''Rasputin'' M. Bekri
 Naranjo, supervivencia en el bosque, Jorge Porta Laborta
-No bastan palabras, Wilson Olaya Leon
+:No bastan palabras: Wilson Olaya Leon
 Los manuscritos del mar muerto, Vidal Manzanares
 Siempre adelante, Orison S. Marden
 20 poemas de amor y una canción desesperada, Pablo Neruda
