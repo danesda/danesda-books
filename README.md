@@ -148,56 +148,56 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 - **Inteligencia artificial y minirobots, Alberto Delgado
 - **El gato y el raton, Gunter Grass
 - **Cronicas marcianas, Ray Bradbury
-Contacto, Carl Sagan
-La canción de los Nibelungos, Claude Mettra
-Plutonia, Vladimir Afanasievich Obruchev
-2001 una odisea espacial, Arthur C. Clarke
-Cosmos, Carl Sagan
-Momo, Michael Ende
-Bola de sebo, Guy de Maupassant
-El universo en una cascara de nuez, Stephen Hawking
-La ciudad y los perros, Mario Vargas Llosa
-Las aventuras de sherlok Holmes, Arthur Conan Doyle
-La ley de los varones ( los reyes malditos), Maurice Druon
-El rey de hierro (los reyes malditos), Maurice Druon
-El león, la bruja y el ropero, C.S Lewis
-Harry Potter y el príncipe mestizo, J.K Rowling
-Harry Potter y la orden del fénix, J.K Rowling
-El código Da Vinci, Dan Brown
-Diseño y marketing, Alan Swann
-La mujer sensual
-El demonio y la señorita Prym, Paulo Coelho
-Logos, Conway Lloyd Morgan
-El sueño de Albion, Roger Norman
-Harry Potter y las reliquias de la muerte, J.K Rowling
-De como un rey perdió Francia, Maurice Druon
-Las seis esposas de Enrique VIII, Antonia Fraser
-Caligula, Paul Jean Franceschini
-Cadaver exquisito, Robert Irwin
-Mi lucha (Mein Kampf), Adolfo Hitler
-El cuervo y otros poemas, Edgar Allan Poe
-El león de san marcos, Thomas Quinn
-La puerta olvidada, Paul Maar
-Memorias de una superviviente, Doris Lessing
-Padres e hijos, Ivan Turgueniev
-El Hobbit, JRR Tolkien
-Riesgo aceptable, Robin Cook
-El valle de las muñecas, Jacqueline Susann
-El Aleph, Jorge Luis Borges
-El símbolo perdido, Dan Brown
-Angeles y demonios, Dan Brown
-Flash, Charles Duchaussois
-Callejeros en primera persona, Laura Cambra
-Ivanhoe, Walter Scott
-Tango Bis, Juan Carlos Downes
-España acusa, Eduardo Martin de Pozuelo
-Al sur de la frontera, al oeste del sol, Haruki Murakami
-Porque los hombres aman a las cabronas, Sherry Argov
-La historia de las cosas, Annie Leonard
-Viaje por el mundo sin censura, Pirry, Guillermo Arturo Prieto La Rotta
-La ciencia de los superheroes, Juan Scaliter
-Los hombres son de marte y las mujeres de venus, Joh Gray
-Maus, Art Spiegelman
+- **Contacto, Carl Sagan
+- **La canción de los Nibelungos, Claude Mettra
+- **Plutonia, Vladimir Afanasievich Obruchev
+- **2001 una odisea espacial, Arthur C. Clarke
+- **Cosmos, Carl Sagan
+- **Momo, Michael Ende
+- **Bola de sebo, Guy de Maupassant
+- **El universo en una cascara de nuez, Stephen Hawking
+- **La ciudad y los perros, Mario Vargas Llosa
+- **Las aventuras de sherlok Holmes, Arthur Conan Doyle
+- **La ley de los varones ( los reyes malditos), Maurice Druon
+- **El rey de hierro (los reyes malditos), Maurice Druon
+- **El león, la bruja y el ropero, C.S Lewis
+- **Harry Potter y el príncipe mestizo, J.K Rowling
+- **Harry Potter y la orden del fénix, J.K Rowling
+- **El código Da Vinci, Dan Brown
+- **Diseño y marketing, Alan Swann
+- **La mujer sensual
+- **El demonio y la señorita Prym, Paulo Coelho
+- **Logos, Conway Lloyd Morgan
+- **El sueño de Albion, Roger Norman
+- **Harry Potter y las reliquias de la muerte, J.K Rowling
+- **De como un rey perdió Francia, Maurice Druon
+- **Las seis esposas de Enrique VIII, Antonia Fraser
+- **Caligula, Paul Jean Franceschini
+- **Cadaver exquisito, Robert Irwin
+- **Mi lucha (Mein Kampf), Adolfo Hitler
+- **El cuervo y otros poemas, Edgar Allan Poe
+- **El león de san marcos, Thomas Quinn
+- **La puerta olvidada, Paul Maar
+- **Memorias de una superviviente, Doris Lessing
+- **Padres e hijos, Ivan Turgueniev
+- **El Hobbit, JRR Tolkien
+- **Riesgo aceptable, Robin Cook
+- **El valle de las muñecas, Jacqueline Susann
+- **El Aleph, Jorge Luis Borges
+- **El símbolo perdido, Dan Brown
+- **Angeles y demonios, Dan Brown
+- **Flash, Charles Duchaussois
+- **Callejeros en primera persona, Laura Cambra
+- **Ivanhoe, Walter Scott
+- **Tango Bis, Juan Carlos Downes
+- **España acusa, Eduardo Martin de Pozuelo
+- **Al sur de la frontera, al oeste del sol, Haruki Murakami
+- **Porque los hombres aman a las cabronas, Sherry Argov
+- **La historia de las cosas, Annie Leonard
+- **Viaje por el mundo sin censura, Pirry, Guillermo Arturo Prieto La Rotta
+- **La ciencia de los superheroes, Juan Scaliter
+- **Los hombres son de marte y las mujeres de venus, Joh Gray
+- **Maus, Art Spiegelman
 El mono enamorado, Robert Sapolsky
 Room Service, Sergio Marchi
 El rock perdido, Sergio Marchi
