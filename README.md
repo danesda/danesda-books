@@ -1,26 +1,14 @@
 # danesda-books
 Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 =================================================================
-**Narraciones Extraordinarias** Edgar Allan Poe
-- The |biohazard| symbol must be used on containers used to dispose of medical waste.
- .. |H| image:: /images/heart.png
-   :height: 11
-   :width: 11
-.. |S| image:: /images/spade.png
-   :height: 11
-   :width: 11
- .. |biohazard| image:: biohazard.png 
-**Pensamientos para hombres libres** Reynaldo Suarez Diaz
-**Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
-- Poema del Cid
-- Mujercitas, Louise May Alcott 
-.. image:: images/ball1.gif
-For instance:
-
-.. image:: images/ball1.gif 
-- :Como ganar amigos: Dale Carnegie
+- **Narraciones Extraordinarias** Edgar Allan Poe
+- **Pensamientos para hombres libres** Reynaldo Suarez Diaz
+- **Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
+- **Poema del Cid**
+- **Mujercitas** Louise May Alcott 
+- **Como ganar amigos**Dale Carnegie
 - **La Dama de las Camelias** Alexandre Dumas (hijo)
-''Rasputin'' M. Bekri
+- **Rasputin** M. Bekri
  - * Naranjo, supervivencia en el bosqu *, Jorge Porta Laborta
 - :No bastan palabras: Wilson Olaya Leon
 - Los manuscritos del mar muerto:: Vidal Manzanares
