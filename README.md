@@ -2,6 +2,9 @@
 Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 =================================================================
 **Narraciones Extraordinarias** Edgar Allan Poe
+- The |biohazard| symbol must be used on containers used to dispose of medical waste.
+
+ .. |biohazard| image:: biohazard.png 
 **Pensamientos para hombres libres** Reynaldo Suarez Diaz
 **Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
 - Poema del Cid
