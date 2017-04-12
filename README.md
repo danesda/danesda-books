@@ -249,83 +249,37 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 - **El beso de la mujer araña, Manuel Puig
 - **La víspera de Santo Tomas, Jean Plaidy
 - **El mundo de hoy, Ryszard Kapuscinski
-El prisionero del caucaso, Leon Tolstoi
-Ivan el tonto, Leon Tolstoi
-La muerte de Ivan Ilitch, Leon Tolstoi
-Amo y criado, Leon Tolstoi
-Sound Bites, comerse el mundo de gira con Franz Ferdinand, Alex Kapranos
-La maquina de follar, Charles Bukowski
-La Isla del tesoro, Robert Louis Stevenson
-Teoria King Kong, Virginie Despentes
-Miguel Strogoff, Julio Verne
-Hilando fino, voces femeninas en La Violencia, Maria victoria Uribe Alarcon
-Despues del rock, psicodelia, postpunk, electrónica y  otras revoluciones inconclusas, Simon Reynolds
-La ciudad vista, mercancías y cultura urbana, Beatriz Sarlo
-El llano en llamas, Alfredo Molano
-Cronicas Filosas, Rolling Stone Argentina
-Selva Adentro, Una historia de la colonización del Guaviare, Alfredo Molano
-El Eternauta, Hector Oesterheld, Francisco Solano Lopez
-El resto es silencio, Carla Guelfenbein
-Siddhartha, Hermann Hesse
-En esas andaba cuando la vi, Fernando Quiroz
-La capitana del Yucatan, Emilio Salgari
-Un arte de vivir, Reinaldo Suarez Diaz
-Citas del Presidente, Mao Tsetung
-El origen de la burguesía en Colombia, Eduardo Peña Consuegra
-Cinco tesis filosoficas, Mao Tsetung
-El Kama Sutra, Vatsiaiana 
-Introduccion a los computadores, Elberto Carrillo Rincon 
-Al rescate de Omacha, Sarita Kendall
-La mascara de la muerte roja, Edgar Allan Poe
-Poesia completa, Walk Whitman
-King Kong, Delos W. Lovelace
-Mal de Altura, Jon Krakauer
-Tumulto en julio, Erskine Caldwell
-Joseph Anton, Memorias del tiempo de la fauta, Salman Rushdie
-La senda del perdedor, Charles Bukowski
-
-VIDEO_FILE = "video.mp4"
-OUTPUT_FILE = "anim.gif"
-DEVICE_FILE = "background.jpg"
-
-FRAMES_DIR = "./frames/"
-COMPOSITE_DIR = "./composite/"
-
-SCREENSHOTS_RESOLUTION = "270x480"
-FPS = 7 #Frames per second to capture. The more, the bigger (filesize)
-USE_DEVICE_FRAME = True
-DEBUG = False
-
-
-# Crea las carpetas necesarias, prepara el estado inicial del script
-os.system("rm -r frames")
-os.system("rm -r composite")
-os.system("mkdir composite")
-os.system("mkdir frames")
-
-# Saca los frames del vídeo
-print 'Sacando frames del vídeo...'
-extract_frames_command = "ffmpeg -i video.mp4 -r {} -s {} -f image2 {}img%3d.png".format(FPS, SCREENSHOTS_RESOLUTION, FRAMES_DIR)
-os.system(extract_frames_command)
-
-file_names = sorted((fn for fn in os.listdir(FRAMES_DIR) if fn.endswith('.png')))
-
-if DEBUG: raw_input("Frames extraídos, pulsa enter para continuar")
-
-# Junta los frames con el marco del móvil
-if USE_DEVICE_FRAME:
-	print 'Poniendo frames sobre el fondo...'
-	for i, fname in enumerate(file_names):
-		output_file = COMPOSITE_DIR+fname
-		input_file = FRAMES_DIR+fname
-		os.system('composite -gravity center {} {} {}'.format(input_file, DEVICE_FILE, output_file))
-
-	if DEBUG: raw_input("Marco del dispositivo adjuntado, pulsa enter para continuar")
-
-# Crea un gif a partir de los frames sueltos
-print 'Creando gif a partir de los frames...'
-final_frames_dir = COMPOSITE_DIR if USE_DEVICE_FRAME else FRAMES_DIR
-make_gif_command = "convert -layers Optimize -delay 1x{} {}img*.png {}".format(FPS, final_frames_dir, OUTPUT_FILE)
-os.system(make_gif_command)
-
-print "Listo! :)"
+- **El prisionero del caucaso, Leon Tolstoi
+- **Ivan el tonto, Leon Tolstoi
+- **La muerte de Ivan Ilitch, Leon Tolstoi
+- **Amo y criado, Leon Tolstoi
+- **Sound Bites, comerse el mundo de gira con Franz Ferdinand, Alex Kapranos
+- **La maquina de follar, Charles Bukowski
+- **La Isla del tesoro, Robert Louis Stevenson
+- **Teoria King Kong, Virginie Despentes
+- **Miguel Strogoff, Julio Verne
+- **Hilando fino, voces femeninas en La Violencia, Maria victoria Uribe Alarcon
+- **Despues del rock, psicodelia, postpunk, electrónica y  otras revoluciones inconclusas, Simon Reynolds
+- **La ciudad vista, mercancías y cultura urbana, Beatriz Sarlo
+- **El llano en llamas, Alfredo Molano
+- **Cronicas Filosas, Rolling Stone Argentina
+- **Selva Adentro, Una historia de la colonización del Guaviare, Alfredo Molano
+- **El Eternauta, Hector Oesterheld, Francisco Solano Lopez
+- **El resto es silencio, Carla Guelfenbein
+- **Siddhartha, Hermann Hesse
+- **En esas andaba cuando la vi, Fernando Quiroz
+- **La capitana del Yucatan, Emilio Salgari
+- **Un arte de vivir, Reinaldo Suarez Diaz
+- **Citas del Presidente, Mao Tsetung
+- **El origen de la burguesía en Colombia, Eduardo Peña Consuegra
+- **Cinco tesis filosoficas, Mao Tsetung
+- **El Kama Sutra, Vatsiaiana 
+- **Introduccion a los computadores, Elberto Carrillo Rincon 
+- **Al rescate de Omacha, Sarita Kendall
+- **La mascara de la muerte roja, Edgar Allan Poe
+- **Poesia completa, Walk Whitman
+- **King Kong, Delos W. Lovelace
+- **Mal de Altura, Jon Krakauer
+- **Tumulto en julio, Erskine Caldwell
+- **Joseph Anton, Memorias del tiempo de la fauta, Salman Rushdie
+- **La senda del perdedor, Charles Bukowski
