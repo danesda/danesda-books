@@ -7,8 +7,8 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 -Poema del Cid
 -Mujercitas, Louise May Alcott
 :Como ganar amigos: Dale Carnegie
-La Dama de las Camelias, Alexandre Dumas (hijo)
-Rasputin, M. Bekri
+''**La Dama de las Camelias**'' Alexandre Dumas (hijo)
+''Rasputin'' M. Bekri
 Naranjo, supervivencia en el bosque, Jorge Porta Laborta
 No bastan palabras, Wilson Olaya Leon
 Los manuscritos del mar muerto, Vidal Manzanares
