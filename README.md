@@ -23,31 +23,31 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 - **Significado oculto de los sueños** Samael Aun Weor
 - **Aventuras del Capitan Hatteras** Julio Verne
 - **Las mocedades del Mio Cid** Guillen de Castro
-- **Las aventuras de dos jóvenes héroes (Flora y Elio), P. Gustavo Eliecer (Elieser Salesman)
-- **La increíble y triste historia de la candida herendida y su abuela desalmada, Gabriel Garcia Marquez
-- **El milagro mas grande del mundo, OG. Mandino
-- **El enfermo imaginario, Moliere
-- **El medico a palos, Moliere
-- **Escuela de Robinsones, Julio Verne
-- **Sus mejores poesías, Julio Florez
-- **El túnel, Ernesto Sabato
-- **El señor de las moscas, William Golding
-- **El Anticristo, Friedrich Nietzsche
-- **Robimson Crusoe, Daniel Defoe
-- **La vida es sueño, Calderon de la Barca
-- **La Metamorfosis, Franz Kafka
-- **Pedro Paramo, Juan Rulfo
-- **El principito, Antoine de Saint-Exupery
-- **El perfume, Patrick Suskind
-- **Politica para Amador, Fernando Savater
-- **Juventud en extasis, Carlos Cuauhtemoc Sanchez
-- **El país de las sombras largas, Hans Ruesch
-- **Volar sobre el pantano, Carlos Cuauhtemoc Sanchez
-- **Romeo y Julieta, William Shakespeare
-- **El Lazarillo de Tormes
-- **Un grito desesperado, Carlos Cuauhtemoc Sanchez
-- **Maria, Jorge Isaacs
-- **Crimen y castigo, Fiodor Dostoievski
+- **Las aventuras de dos jóvenes héroes** (Flora y Elio), P. Gustavo Eliecer (Elieser Salesman)
+- **La increíble y triste historia de la candida herendida y su abuela desalmada** Gabriel Garcia Marquez
+- **El milagro mas grande del mundo** OG. Mandino
+- **El enfermo imaginario** Moliere
+- **El medico a palos** Moliere
+- **Escuela de Robinsones** Julio Verne
+- **Sus mejores poesías** Julio Florez
+- **El túnel** Ernesto Sabato
+- **El señor de las moscas** William Golding
+- **El Anticristo** Friedrich Nietzsche
+- **Robimson Crusoe** Daniel Defoe
+- **La vida es sueño** Calderon de la Barca
+- **La Metamorfosis** Franz Kafka
+- **Pedro Paramo** Juan Rulfo
+- **El principito** Antoine de Saint-Exupery
+- **El perfume** Patrick Suskind
+- **Politica para Amador** Fernando Savater
+- **Juventud en extasis** Carlos Cuauhtemoc Sanchez
+- **El país de las sombras largas** Hans Ruesch
+- **Volar sobre el pantano** Carlos Cuauhtemoc Sanchez
+- **Romeo y Julieta** William Shakespeare
+- **El Lazarillo de Tormes**
+- **Un grito desesperado** Carlos Cuauhtemoc Sanchez
+- **Maria** Jorge Isaacs
+- **Crimen y castigo** Fiodor Dostoievski
 - **Viaje al centro de la tierra, Julio Verne
 - **El espantapájaros solitario, Miguel Angel Perez
 - **Huasipungo, Jorge Icaza Coronel
