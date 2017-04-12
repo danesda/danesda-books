@@ -3,7 +3,12 @@ Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 =================================================================
 **Narraciones Extraordinarias** Edgar Allan Poe
 - The |biohazard| symbol must be used on containers used to dispose of medical waste.
-
+.. |H| image:: /images/heart.png
+   :height: 11
+   :width: 11
+.. |S| image:: /images/spade.png
+   :height: 11
+   :width: 11
  .. |biohazard| image:: biohazard.png 
 **Pensamientos para hombres libres** Reynaldo Suarez Diaz
 **Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
@@ -18,7 +23,7 @@ For instance:
 ''Rasputin'' M. Bekri
 * Naranjo, supervivencia en el bosqu *, Jorge Porta Laborta
 :No bastan palabras: Wilson Olaya Leon
-Los manuscritos del mar muerto, Vidal Manzanares
+- Los manuscritos del mar muerto:: Vidal Manzanares
 Siempre adelante, Orison S. Marden
 20 poemas de amor y una canción desesperada, Pablo Neruda
 Ilusiones, Richard Bach
