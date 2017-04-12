@@ -1,103 +1,103 @@
 # danesda-books
 Una pequeña lista de los libros que me acuerdo pasaron por aqui.
 =================================================================
-- **Narraciones Extraordinarias** Edgar Allan Poe
-- **Pensamientos para hombres libres** Reynaldo Suarez Diaz
-- **Leyes que nunca fallan para alcanzar el exito** Miguel Cuadrado
+- **Narraciones Extraordinarias**, Edgar Allan Poe
+- **Pensamientos para hombres libres**, Reynaldo Suarez Diaz
+- **Leyes que nunca fallan para alcanzar el exito**, Miguel Cuadrado
 - **Poema del Cid**
-- **Mujercitas** Louise May Alcott 
-- **Como ganar amigos**Dale Carnegie
-- **La Dama de las Camelias** Alexandre Dumas (hijo)
-- **Rasputin** M. Bekri
- - **Naranjo, supervivencia en el bosque** Jorge Porta Laborta
-- **No bastan palabras** Wilson Olaya Leon
-- **Los manuscritos del mar muerto** Vidal Manzanares
-- **Siempre adelante** Orison S. Marden
-- **20 poemas de amor y una canción desesperada** Pablo Neruda
-- **Ilusiones** Richard Bach
-- **El tulipán negro** Alejandro Dumas (padre)
-- **Los que se fueron a la porra** Alvaro de la Iglesia#
+- **Mujercitas**, Louise May Alcott 
+- **Como ganar amigos**, Dale Carnegie
+- **La Dama de las Camelias**, Alexandre Dumas (hijo)
+- **Rasputin**, M. Bekri
+ - **Naranjo, supervivencia en el bosque**, Jorge Porta Laborta
+- **No bastan palabras**, Wilson Olaya Leon
+- **Los manuscritos del mar muerto**, Vidal Manzanares
+- **Siempre adelante**, Orison S. Marden
+- **20 poemas de amor y una canción desesperada**, Pablo Neruda
+- **Ilusiones**, Richard Bach
+- **El tulipán negro**, Alejandro Dumas (padre)
+- **Los que se fueron a la porra**, Alvaro de la Iglesia#
 - **Por todos los dioses** Ramon Garcia Dominguez
-- **Me llaman Pacheco** Daniel Samper Pizano
-- **La Vuelta al mundo en 80 dias** Julio Verne
-- **Significado oculto de los sueños** Samael Aun Weor
+- **Me llaman Pacheco**, Daniel Samper Pizano
+- **La Vuelta al mundo en 80 dias**, Julio Verne
+- **Significado oculto de los sueños**, Samael Aun Weor
 - **Aventuras del Capitan Hatteras** Julio Verne
-- **Las mocedades del Mio Cid** Guillen de Castro
-- **Las aventuras de dos jóvenes héroes** (Flora y Elio), P. Gustavo Eliecer (Elieser Salesman)
-- **La increíble y triste historia de la candida herendida y su abuela desalmada** Gabriel Garcia Marquez
-- **El milagro mas grande del mundo** OG. Mandino
-- **El enfermo imaginario** Moliere
-- **El medico a palos** Moliere
-- **Escuela de Robinsones** Julio Verne
-- **Sus mejores poesías** Julio Florez
-- **El túnel** Ernesto Sabato
-- **El señor de las moscas** William Golding
-- **El Anticristo** Friedrich Nietzsche
-- **Robimson Crusoe** Daniel Defoe
-- **La vida es sueño** Calderon de la Barca
-- **La Metamorfosis** Franz Kafka
-- **Pedro Paramo** Juan Rulfo
-- **El principito** Antoine de Saint-Exupery
-- **El perfume** Patrick Suskind
-- **Politica para Amador** Fernando Savater
-- **Juventud en extasis** Carlos Cuauhtemoc Sanchez
-- **El país de las sombras largas** Hans Ruesch
-- **Volar sobre el pantano** Carlos Cuauhtemoc Sanchez
-- **Romeo y Julieta** William Shakespeare
+- **Las mocedades del Mio Cid**, Guillen de Castro
+- **Las aventuras de dos jóvenes héroes**, (Flora y Elio), P. Gustavo Eliecer (Elieser Salesman)
+- **La increíble y triste historia de la candida herendida y su abuela desalmada**, Gabriel Garcia Marquez
+- **El milagro mas grande del mundo**, OG. Mandino
+- **El enfermo imaginario**, Moliere
+- **El medico a palos**, Moliere
+- **Escuela de Robinsones**, Julio Verne
+- **Sus mejores poesías**, Julio Florez
+- **El túnel**, Ernesto Sabato
+- **El señor de las moscas**, William Golding
+- **El Anticristo**, Friedrich Nietzsche
+- **Robimson Crusoe**, Daniel Defoe
+- **La vida es sueño**, Calderon de la Barca
+- **La Metamorfosis**, Franz Kafka
+- **Pedro Paramo**, Juan Rulfo
+- **El principito**, Antoine de Saint-Exupery
+- **El perfume**, Patrick Suskind
+- **Politica para Amador**, Fernando Savater
+- **Juventud en extasis**, Carlos Cuauhtemoc Sanchez
+- **El país de las sombras largas**, Hans Ruesch
+- **Volar sobre el pantano**, Carlos Cuauhtemoc Sanchez
+- **Romeo y Julieta**, William Shakespeare
 - **El Lazarillo de Tormes**
-- **Un grito desesperado** Carlos Cuauhtemoc Sanchez
-- **Maria** Jorge Isaacs
-- **Crimen y castigo** Fiodor Dostoievski
-- **Viaje al centro de la tierra, Julio Verne
-- **El espantapájaros solitario, Miguel Angel Perez
-- **Huasipungo, Jorge Icaza Coronel
-- **Juventud en extasis 2, Carlos Cuauhtemoc Sanchez
-- **Juventud en extasis 1, Carlos Cuauhtemoc Sanchez
-- **El coronel no tiene quien le escriba, Gabriel Garcia Marquez
-- **Don Quijote de la Mancha, Miguel de Cervantes Saavedra
-- **La tia Tula, Miguel de Unamuno
-- **Hamlet, William Shakespeare
-- **El ruiseñor y la rosa, Oscar Wilde
-- **El fantasma de Canterville,  Oscar Wilde
-- **El príncipe feliz, Oscar Wilde
-- **El gigante egoísta, Oscar Wilde
-- **Colombia Amarga, German Castro Caycedo
-- **Frankestein o el moderno Prometeo, Mary Wollstonecraft Shalley
-- **El triangulo de las bermudas, Charles Berlitz
-- **El corazón del hombre, Erich Fromm
-- **Momentos estelares de la ciencia, Isaac Asimov
-- **El caballero de la armadura oxidada, Robert Fisher
-- **No nacimos pa semilla, Alfonso Salazar
-- **Juan Salvador Gaviota, Richard Bach
-- **Walden Dos, B.F. Skinner
-- **El diario de Ana Frank, Ana Frank
-- **Donde el corazón te lleve, Susanna Tamaro
-- **Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres, Jean Jacques Rousseau
-- **Las reglas del método sociológico, Emilio Durkheim
-- **Etica para Amador, Fernando Savater
-- **La Formacion del pensamiento sociológico, Robert Nisbet
-- **El mundo y sus demonios, Carl Sagan
-- **El príncipe y el mendigo, Mark Twain
-- **Doce cuentos peregrinos, Gabriel Garcia Marquez
-- **El manifiesto comunista, Karl Marx
-- **Que viva la musica, Andres Caicedo
-- **Correspondecia Violada, Gustavo Arango, Eduardo Escobar
-- **Robot Al-76 a la deriva, Isaac Asimov
-- **Antropologia General, Aquiles Escalante
-- **Calicalabozo, Andres Caicedo
-- **El libro de los amores ridiculos, Milan Kundera
-- **Fahrenheit 451, Ray Bradbury
-- **Zoro, Jairo Anibal Niño
-- **Dulce Compañía, Laura Restrepo
-- **La pena de muerte y los derechos humanos, Daniel Sueiro
-- **Angelitos empantanados, Andres Caicedo
-- **La muerte un amanecer, Elisabeth Kubler Ross
-- **Homo videns, la sociedad teledirigida, Giovanni Sartori
-- **El Extranjero, Albert Camus
-- **Relaciones entre música y literatura, aspectos culturales en Que viva la musica, Jesus Hernando Motatto
-- **Cuentos de Quince minutos , David Martinez Rueda
-- **Tecnicas de guion para cine y televisión, Eugene Vale
-- **El retrato de Dorian Gray, Oscar Wilde
+- **Un grito desesperado**, Carlos Cuauhtemoc Sanchez
+- **Maria**, Jorge Isaacs
+- **Crimen y castigo**, Fiodor Dostoievski
+- **Viaje al centro de la tierra**, Julio Verne
+- **El espantapájaros solitario**, Miguel Angel Perez
+- **Huasipungo**, Jorge Icaza Coronel
+- **Juventud en extasis 2**, Carlos Cuauhtemoc Sanchez
+- **Juventud en extasis 1**, Carlos Cuauhtemoc Sanchez
+- **El coronel no tiene quien le escriba**, Gabriel Garcia Marquez
+- **Don Quijote de la Mancha**, Miguel de Cervantes Saavedra
+- **La tia Tula**, Miguel de Unamuno
+- **Hamlet**, William Shakespeare
+- **El ruiseñor y la rosa**, Oscar Wilde
+- **El fantasma de Canterville**,  Oscar Wilde
+- **El príncipe feliz**, Oscar Wilde
+- **El gigante egoísta**, Oscar Wilde
+- **Colombia Amarga**, German Castro Caycedo
+- **Frankestein o el moderno Prometeo**, Mary Wollstonecraft Shalley
+- **El triangulo de las bermudas**, Charles Berlitz
+- **El corazón del hombre**, Erich Fromm
+- **Momentos estelares de la ciencia**, Isaac Asimov
+- **El caballero de la armadura oxidada**, Robert Fisher
+- **No nacimos pa semilla**, Alfonso Salazar
+- **Juan Salvador Gaviota**, Richard Bach
+- **Walden Dos**, B.F. Skinner
+- **El diario de Ana Frank**, Ana Frank
+- **Donde el corazón te lleve**, Susanna Tamaro
+- **Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres**, Jean Jacques Rousseau
+- **Las reglas del método sociológico**, Emilio Durkheim
+- **Etica para Amador**, Fernando Savater
+- **La Formacion del pensamiento sociológico**, Robert Nisbet
+- **El mundo y sus demonios**, Carl Sagan
+- **El príncipe y el mendigo**, Mark Twain
+- **Doce cuentos peregrinos**, Gabriel Garcia Marquez
+- **El manifiesto comunista**, Karl Marx
+- **Que viva la musica**, Andres Caicedo
+- **Correspondecia Violada**, Gustavo Arango, Eduardo Escobar
+- **Robot Al-76 a la deriva**, Isaac Asimov
+- **Antropologia General**, Aquiles Escalante
+- **Calicalabozo**, Andres Caicedo
+- **El libro de los amores ridiculos**, Milan Kundera
+- **Fahrenheit 451**, Ray Bradbury
+- **Zoro**, Jairo Anibal Niño
+- **Dulce Compañía**, Laura Restrepo
+- **La pena de muerte y los derechos humanos**, Daniel Sueiro
+- **Angelitos empantanados**, Andres Caicedo
+- **La muerte un amanecer**, Elisabeth Kubler Ross
+- **Homo videns, la sociedad teledirigida**, Giovanni Sartori
+- **El Extranjero**, Albert Camus
+- **Relaciones entre música y literatura, aspectos culturales en Que viva la musica**, Jesus Hernando Motatto
+- **Cuentos de Quince minutos**, David Martinez Rueda
+- **Tecnicas de guion para cine y televisión**, Eugene Vale
+- **El retrato de Dorian Gray**, Oscar Wilde
 - **La Peste, Albert Camus
 - **Sin Familia, Hector Malot
 - **El entre nosotras, Anna Myers
