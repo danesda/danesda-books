@@ -24,8 +24,8 @@ For instance:
 * Naranjo, supervivencia en el bosqu *, Jorge Porta Laborta
 :No bastan palabras: Wilson Olaya Leon
 - Los manuscritos del mar muerto:: Vidal Manzanares
-Siempre adelante, Orison S. Marden
-20 poemas de amor y una canción desesperada, Pablo Neruda
+ .. Siempre adelante, Orison S. Marden
+ * 20 poemas de amor y una canción desesperada, Pablo Neruda*
 Ilusiones, Richard Bach
 El tulipán negro, Alejandro Dumas (padre)
 Los que se fueron a la porra, Alvaro de la Iglesia
