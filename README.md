@@ -21,8 +21,8 @@ For instance:
 - :Como ganar amigos: Dale Carnegie
 - **La Dama de las Camelias** Alexandre Dumas (hijo)
 ''Rasputin'' M. Bekri
-* Naranjo, supervivencia en el bosqu *, Jorge Porta Laborta
-:No bastan palabras: Wilson Olaya Leon
+ - * Naranjo, supervivencia en el bosqu *, Jorge Porta Laborta
+- :No bastan palabras: Wilson Olaya Leon
 - Los manuscritos del mar muerto:: Vidal Manzanares
  .. Siempre adelante, Orison S. Marden
  * 20 poemas de amor y una canción desesperada, Pablo Neruda*
